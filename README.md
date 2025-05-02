@@ -1,16 +1,11 @@
-# mynotes
+# Flutter-Note-Taking-App
 
-A new Flutter project.
+A simple and minimalistic note-taking app built using **Flutter** for the frontend and **Firebase** as the backend. This project is ideal for beginners looking to explore how to integrate Firebase services like Firestore and Authentication in a Flutter application.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Create, update, and delete notes  
+- Realtime data sync with Firebase Firestore  
+- Firebase Email Authentication (optional login feature can be added)  
+- Clean and responsive UI built with Flutter  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
